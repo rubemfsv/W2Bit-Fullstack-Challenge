@@ -7,7 +7,7 @@ Você será avaliado por sua capacidade de escrever códigos legiveis, simples e
 ### Instruções
 * Nome do Projeto: W2Bit Bus Station 
 * Objetivo: Criar uma API RESTful capaz de gerenciar os ônibus de sua frota e as rotas, e uma interface em React Native para poder interagir com a API.
-* Tecnologia: Node.js com banco de dados relacional.
+* Tecnologia: React Native e Node.js com banco de dados relacional.
 * Entrega: Crie um repositório pessoal para o back e um para o front, siga as instruções abaixo, sinalize o término e envie o link dos repositórios) o link do deploy da API, e a documentação no insomnia para testar sua api. 
 
 ### Recomendações
