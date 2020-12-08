@@ -26,11 +26,11 @@ Você será avaliado por sua capacidade de escrever códigos legiveis, simples e
 
 ## Challenge!
 
-Você foi contratado para fazer um app para donos de frotas de ônibus, onde os usuários poderão criar uma conta, se autenticar utilizando um token JWT e poderão adicionar seus ônibus e rotas. Após cadastrar o ônibus, ele poderá cadastrar uma nova viagem e relacionar um ônibus a uma viagem (não é possível criar uma viagem sem ônibus).
+Você foi contratado para fazer um app para donos de frotas de ônibus, onde os usuários poderão criar uma conta, se autenticar e poderão adicionar seus ônibus e rotas. Após cadastrar o ônibus, ele poderá cadastrar uma nova viagem e relacionar um ônibus a uma viagem (não é possível criar uma viagem sem ônibus).
 
 * A Sua API deverá ser capaz de:
   * Cadastrar um novo usuário
-  * Se autenticar utilizando JWT
+  * Se autenticar
   * Cadastrar um novo ônibus
   * Listar todos os ônibus cadastrados
   * Listar os dados de um ônibus
